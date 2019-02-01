@@ -3,10 +3,10 @@
 [1, 2, 3, 4] => 1 * 2 * 3 * 4 = 24*/
 
 //My solution:
-
+1.
 function grow(x){
     const reducer=(acc,item)=>acc*item;
     return x.reduce(reducer);
 }
-
-//const grow=x=> x.reduce((a,b) => a*b);
+2.
+const grow=x=> x.reduce((a,b) => a*b);
