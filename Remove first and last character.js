@@ -3,7 +3,10 @@
   */
 
 //MY SOLUTION:
-
+1.
 function removeChar(str){
     return str.slice(1,-1);
 };
+2.
+const removeChar = str => str.slice(1,-1)
+
