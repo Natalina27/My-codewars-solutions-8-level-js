@@ -9,8 +9,25 @@ Sum: (10 - 2) + (2 - 1) = 8 + 1 = 9
 If the array is empty or the array has only one element the result should be 0.*/
 
 //My solution:
-
+1.
 function sumOfDifferences(arr) {
     return arr.length > 1 ? Math.max(...arr) - Math.min(...arr) : 0;
 
+}
+
+
+
+2.
+function sumOfDifferences(arr) {
+if(arr && arr.length>1){
+  arr.sort(function compareNumbers(a, b) {return b-a;});
+  let diff=[];
+  for(let i=0; i< arr.length-1; i++) {
+    diff.push(arr[i]-arr[i+1]);
+  }
+     const result=(acc,item)=>acc+item;
+     return diff.reduce(result);
+     }
+     return 0;
+  
 }
