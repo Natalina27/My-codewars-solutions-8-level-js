@@ -15,7 +15,7 @@ For example, a multiplication table (string) for number == 5 looks like below:
     10 * 5 = 50
 P. S. You can use \n in string to jump to the next line.*/
 //My solution:
-
+1.
 function multiTable(number) {
     let result= '';
     for(let i=1 ; i <= 10 ; i++ ){
@@ -23,11 +23,22 @@ function multiTable(number) {
     }
     return result.slice(0,-1);
 }
-//or:
 
-// function multiTable(n) {
-//   return [...Array(10)].map((_,i)=>`${i+1} * ${n} = ${n*i+n}`).join('\n')
-// }
+2.
+function multiTable(n) {
+  return [...Array(10)].map((_,i)=>`${i+1} * ${n} = ${n*i+n}`).join('\n')
+}
+
+3.
+function multiTable(number) {
+  let result = '';
+  
+  for(let i = 1; i <= 10; i++) {
+    result += `${i} * ${number} = ${i * number}${i < 10 ? '\n' : ''}` ;
+  }
+
+  return result;
+}
 
 
 
