@@ -7,8 +7,8 @@ Note: if there is nothing to sum, the sum is default to 0.
 
 
  */
-//My solution:
-
+//My solutions:
+1.
 function positiveSum(arr) {
     let res=0;
     for(let i=0;i< arr.length;i++ ){
@@ -17,4 +17,8 @@ function positiveSum(arr) {
         }
     }
     return res;
+}
+2.
+function positiveSum(arr) {
+   return arr.reduce((a,b)=> a + (b > 0 ? b : 0),0);
 }
