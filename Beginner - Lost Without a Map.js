@@ -8,7 +8,10 @@ For the beginner, try to use the map method - it comes in very handy quite a lot
 
 */
 //My solution:
+//1
 function maps(x){
     return x.map(el=>el*2);
 
 }
+//2
+maps=x=>x.map(v=>v*2);
