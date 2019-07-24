@@ -7,7 +7,19 @@ You were camping with your friends far away from home, but when it's time to go 
  */
 
 //My solution:
+
+
 const zeroFuel = (distanceToPump, mpg, fuelLeft) => {
     return fuelLeft === 0 || !fuelLeft || distanceToPump === 0 || !distanceToPump || mpg===0 || !mpg ? 0:mpg >= distanceToPump/fuelLeft;
 
 };
+// //1.
+// const zeroFuel = (distanceToPump, mpg, fuelLeft) => {
+//
+//     return fuelLeft===0 || !fuelLeft || distanceToPump==0 || !distanceToPump || mpg===0 || !mpg ? 0:mpg >= distanceToPump/fuelLeft;
+//
+// };
+// //2.
+// const zeroFuel = (distanceToPump, mpg, fuelLeft) => {
+//   return distanceToPump/mpg <= fuelLeft
+// };

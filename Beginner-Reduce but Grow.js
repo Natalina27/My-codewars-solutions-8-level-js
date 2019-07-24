@@ -4,9 +4,5 @@
 
 //My solution:
 
-function grow(x){
-    const reducer=(acc,item)=>acc*item;
-    return x.reduce(reducer);
-}
+const grow=x=> x.reduce((a,b) => a*b);
 
-//const grow=x=> x.reduce((a,b) => a*b);

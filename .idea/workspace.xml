@@ -1,30 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5991798e-b80c-4e03-b97c-efe24a94452b" name="Default Changelist" comment="add all files">
-      <change afterPath="$PROJECT_DIR$/ Count of positives:sum of negatives.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/8 LEVEL.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ArrayPlusArray.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Beginner - Lost Without a Map.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Beginner-Reduce but Grow.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Capitalization and Mutability.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Convert a number to String.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Count odd numbers below n.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Find the smallest integer in the array.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Get the mean in an array.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Merge two sorted arrays into one.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Multiplication table for number.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pre-FizzBuzz Workout #1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Remove first and last character.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Square(n)Sum.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sum of differences in array.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sum of multiple.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sum of positives.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Will you make it?.js" afterDir="false" />
+    <list default="true" id="5991798e-b80c-4e03-b97c-efe24a94452b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/My-codewars-solutions-8-level-js.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Count of positives:sum of negatives.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Opposite number.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayPlusArray.js" beforeDir="false" afterPath="$PROJECT_DIR$/ArrayPlusArray.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Beginner - Lost Without a Map.js" beforeDir="false" afterPath="$PROJECT_DIR$/Beginner - Lost Without a Map.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Beginner-Reduce but Grow.js" beforeDir="false" afterPath="$PROJECT_DIR$/Beginner-Reduce but Grow.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Capitalization and Mutability.js" beforeDir="false" afterPath="$PROJECT_DIR$/Capitalization and Mutability.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Find the smallest integer in the array.js" beforeDir="false" afterPath="$PROJECT_DIR$/Find the smallest integer in the array.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Get the mean in an array.js" beforeDir="false" afterPath="$PROJECT_DIR$/Get the mean in an array.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Multiplication table for number.js" beforeDir="false" afterPath="$PROJECT_DIR$/Multiplication table for number.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Remove first and last character.js" beforeDir="false" afterPath="$PROJECT_DIR$/Remove first and last character.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sum of differences in array.js" beforeDir="false" afterPath="$PROJECT_DIR$/Sum of differences in array.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sum of positives.js" beforeDir="false" afterPath="$PROJECT_DIR$/Sum of positives.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Will you make it?.js" beforeDir="false" afterPath="$PROJECT_DIR$/Will you make it?.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -36,11 +30,55 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ArrayPlusArray.js">
+        <entry file="file://$PROJECT_DIR$/Multiplication table for number.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
+            <state relative-caret-position="251">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Opposite number.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Pre-FizzBuzz Workout #1.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Remove first and last character.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
               <caret line="9" selection-start-line="9" selection-end-line="9" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
@@ -50,28 +88,44 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Count odd numbers below n.js">
+        <entry file="file://$PROJECT_DIR$/Square(n)Sum.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            <state>
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Find the smallest integer in the array.js">
+        <entry file="file://$PROJECT_DIR$/Sum of differences in array.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+            <state relative-caret-position="326">
+              <caret line="31" selection-start-line="17" selection-end-line="31" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Remove first and last character.js">
+        <entry file="file://$PROJECT_DIR$/Sum of multiple.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+            <state>
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Sum of positives.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="341">
+              <caret line="29" lean-forward="true" selection-start-line="20" selection-end-line="29" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -82,8 +136,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Will you make it?.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+            <state relative-caret-position="228">
+              <caret line="17" column="7" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -103,18 +160,26 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ArrayPlusArray.js" />
         <option value="$PROJECT_DIR$/Count odd numbers below n.js" />
+        <option value="$PROJECT_DIR$/ArrayPlusArray.js" />
+        <option value="$PROJECT_DIR$/Beginner - Lost Without a Map.js" />
+        <option value="$PROJECT_DIR$/Beginner-Reduce but Grow.js" />
+        <option value="$PROJECT_DIR$/Capitalization and Mutability.js" />
+        <option value="$PROJECT_DIR$/Count of positives:sum of negatives.js" />
         <option value="$PROJECT_DIR$/Find the smallest integer in the array.js" />
+        <option value="$PROJECT_DIR$/Get the mean in an array.js" />
+        <option value="$PROJECT_DIR$/Multiplication table for number.js" />
         <option value="$PROJECT_DIR$/Remove first and last character.js" />
+        <option value="$PROJECT_DIR$/Sum of differences in array.js" />
+        <option value="$PROJECT_DIR$/Sum of positives.js" />
         <option value="$PROJECT_DIR$/Will you make it?.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="304" />
-    <option name="y" value="52" />
-    <option name="width" value="794" />
+    <option name="x" value="278" />
+    <option name="y" value="62" />
+    <option name="width" value="1198" />
     <option name="height" value="782" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -170,11 +235,12 @@
       <workItem from="1563988052837" duration="105000" />
       <workItem from="1563988184023" duration="52000" />
       <workItem from="1563988340159" duration="253000" />
+      <workItem from="1563990126819" duration="1028000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="655000" />
+    <option name="totallyTimeSpent" value="2396000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -186,13 +252,12 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="304" y="52" width="794" height="782" extended-state="0" />
+    <frame x="278" y="62" width="1198" height="782" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24967659" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2786746" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Messages" visible="true" weight="0.3289855" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -202,8 +267,9 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3289855" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3289855" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.2259983" side_tool="true" visible="true" weight="0.3289855" />
+      <window_info active="true" anchor="bottom" id="Messages" order="10" visible="true" weight="0.3289855" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.7740017" visible="true" weight="0.3289855" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -212,15 +278,79 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add all files" />
     <option name="LAST_COMMIT_MESSAGE" value="add all files" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ Count of positives:sum of negatives.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ArrayPlusArray.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="135">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Beginner - Lost Without a Map.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Beginner-Reduce but Grow.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Capitalization and Mutability.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Convert a number to String.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
@@ -234,17 +364,115 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Count of positives:sum of negatives.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="36" column="5" lean-forward="true" selection-start-line="14" selection-start-column="3" selection-end-line="36" selection-end-column="5" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Find the smallest integer in the array.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Get the mean in an array.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Merge two sorted arrays into one.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Multiplication table for number.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Opposite number.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pre-FizzBuzz Workout #1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Remove first and last character.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        <state relative-caret-position="135">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Square(n)Sum.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sum of differences in array.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="31" selection-start-line="17" selection-end-line="31" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sum of multiple.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sum of positives.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="29" lean-forward="true" selection-start-line="20" selection-end-line="29" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
@@ -253,8 +481,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Will you make it?.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+        <state relative-caret-position="228">
+          <caret line="17" column="7" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
