@@ -13,6 +13,8 @@ const zeroFuel = (distanceToPump, mpg, fuelLeft) => {
     return fuelLeft === 0 || !fuelLeft || distanceToPump === 0 || !distanceToPump || mpg===0 || !mpg ? 0:mpg >= distanceToPump/fuelLeft;
 
 };
+
+
 // //1.
 // const zeroFuel = (distanceToPump, mpg, fuelLeft) => {
 //
